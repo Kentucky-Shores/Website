@@ -1,0 +1,31 @@
+.department-tabs {
+  background-color: #F5F5F5;
+  padding: 15px;
+  border: 1px solid #E3E3E3;
+  border-radius: 4px;
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+
+.department-tabs {
+  background-color: whitesmoke;
+}
+
+.department-tabs .tab-content {
+  border-left: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  border-right: 1px solid #DDDDDD;
+  background-color: white;
+}
+
+.department-tabs li a {
+  background-color: #F5F5F5;
+}
+
+.department-tabs li.active a {
+  background-color: white;
+}
+
+.table-responsive.department-hours table.table {
+  margin-bottom: 0;
+}
+
